@@ -6,4 +6,4 @@ Filtered out needless items from both location and continent columns.
 Date was converted from object datatype to datetime datatype.
 Formated date column to day_month_year.
 Analysis was done to identify palpable cases of Covid-19 using different category such as continent, country,  etc.
-The data was visualized through graphical representation such as seaborn's countplot and barplot, and flourish studio visualisation.
+After analysis, the dataset was subsequently visualized through graphical representation such as seaborn's countplot and barplot, and flourish studio visualisation.
