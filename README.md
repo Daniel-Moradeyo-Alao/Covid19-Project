@@ -1,6 +1,6 @@
 # Covid_19 Project
-Thoroughly explored, cleaned, analyzed and visualized updated Covid-19 data as follows:
-The Covid-19 data was cleaned as follows: firstly, checked through the data for possible null values in different columns. additonally, filled rows with null under continent column with "Others" since there are figures allocated to total_cases, total_deaths, etc in the data.
+Thoroughly explored, cleaned, analyzed and visualized updated Covid-19 dataset.
+The Covid-19 dataset was cleaned as follows: firstly, checked through the data for possible null values in different columns. additonally, filled rows with null under continent column with "Others" since there are figures allocated to total_cases, total_deaths, etc in the data.
 No duplicated values in the data.
 Filtered out needless items from both location and continent columns.
 Date was converted from object datatype to datetime datatype.
